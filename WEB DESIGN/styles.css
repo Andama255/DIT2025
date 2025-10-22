@@ -1,0 +1,44 @@
+#parent-div{
+    padding: 5px;
+    
+}
+#nav-div{
+    background-color: white;
+    padding: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+   
+}
+ #nav-div,#home-link,#course-link,#contact-link,#apply-link{
+    margin: 10px;
+
+}
+#links-div{
+    padding: 5px;
+    color: tomato;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+#departments-div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+h2{
+    text-align: center;
+}
+footer{
+    background-color: lightblue;
+    padding: 20px;
+
+}
+h1{
+    text-align: center;
+    color:brown;
+}
+

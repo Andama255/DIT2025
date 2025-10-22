@@ -1,0 +1,20 @@
+body{
+    background-image: url("pexels-valentin-ilas-2154050328-33045172.jpg");
+    opacity: ;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: scroll;
+    background-size: 850px;
+}
+h2, h4{
+    color: white;
+}
+.red{
+    color: red;
+}
+#green{
+    color: white;
+}
+#blue{
+    color: blue;
+}
