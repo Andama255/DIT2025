@@ -15,6 +15,9 @@ nav ul {
     margin: 0px;
     text-decoration: underline;
 }
+a{
+    color: white;
+}
 
 #wallpaper{
     display: flex;
